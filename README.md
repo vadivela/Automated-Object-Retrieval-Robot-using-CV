@@ -1,4 +1,4 @@
-# Automated Object Retrieval System Using Color and Shape Recognition
+# Automated Object Retrieval Robot
 
 This project integrates computer vision and robotics to develop an innovative system for detecting, retrieving, and relocating objects within a predefined arena. Utilizing a Raspberry Pi-based overhead vision system and a mobile robot equipped with a Parallax Propeller Board, the system identifies objects based on color and shape using OpenCV and executes precise robotic manipulation for object retrieval.
 
